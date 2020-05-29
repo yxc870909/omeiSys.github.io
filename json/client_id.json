@@ -1,0 +1,10 @@
+{
+  "web": {
+    "client_id": "470262288558-46f0pk20tf7755u7seu2uk4e4o6qjsu2.apps.googleusercontent.com",
+    "project_id": "tsbooktest",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://accounts.google.com/o/oauth2/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "BO4wQEMpOch59zhcvSAtIKI5"
+  }
+}

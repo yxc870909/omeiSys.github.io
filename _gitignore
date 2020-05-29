@@ -1,0 +1,10 @@
+/vendor
+/node_modules
+/public/storage
+Homestead.yaml
+Homestead.json
+.env
+.git/
+public/tmp
+public/upload
+app/config/database.php

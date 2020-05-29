@@ -1,0 +1,2672 @@
+[
+  {
+    "id": 1,
+    "type": "gender",
+    "value": "male",
+    "word": "乾",
+    "order": "1",
+    "attribute": ""
+  },
+  {
+    "id": 2,
+    "type": "gender",
+    "value": "female",
+    "word": "坤",
+    "order": "2",
+    "attribute": ""
+  },
+  {
+    "id": 3,
+    "type": "area",
+    "value": "taipei_220",
+    "word": "板橋區",
+    "order": "1",
+    "attribute": ""
+  },
+  {
+    "id": 4,
+    "type": "area",
+    "value": "Taoyuan_320",
+    "word": "中壢區",
+    "order": "2",
+    "attribute": ""
+  },
+  {
+    "id": 5,
+    "type": "area",
+    "value": "Hsinchu_",
+    "word": "竹苗區",
+    "order": "3",
+    "attribute": ""
+  },
+  {
+    "id": 6,
+    "type": "area",
+    "value": "Yunlin_651",
+    "word": "北港區",
+    "order": "4",
+    "attribute": ""
+  },
+  {
+    "id": 7,
+    "type": "area",
+    "value": "Chiayi_",
+    "word": "嘉義區",
+    "order": "5",
+    "attribute": ""
+  },
+  {
+    "id": 8,
+    "type": "edu",
+    "value": "PS",
+    "word": "國小",
+    "order": "1",
+    "attribute": ""
+  },
+  {
+    "id": 9,
+    "type": "edu",
+    "value": "JS",
+    "word": "國中",
+    "order": "2",
+    "attribute": ""
+  },
+  {
+    "id": 10,
+    "type": "edu",
+    "value": "SS",
+    "word": "高中/五專",
+    "order": "3",
+    "attribute": ""
+  },
+  {
+    "id": 11,
+    "type": "edu",
+    "value": "BS",
+    "word": "大學",
+    "order": "4",
+    "attribute": ""
+  },
+  {
+    "id": 12,
+    "type": "edu",
+    "value": "MS",
+    "word": "碩士",
+    "order": "5",
+    "attribute": ""
+  },
+  {
+    "id": 13,
+    "type": "edu",
+    "value": "PhD",
+    "word": "博士",
+    "order": "6",
+    "attribute": ""
+  },
+  {
+    "id": 14,
+    "type": "skill",
+    "value": "Woodworking",
+    "word": "木工",
+    "order": "1",
+    "attribute": ""
+  },
+  {
+    "id": 15,
+    "type": "skill",
+    "value": "Hydropower",
+    "word": "水電",
+    "order": "2",
+    "attribute": ""
+  },
+  {
+    "id": 16,
+    "type": "skill",
+    "value": "paint",
+    "word": "油漆",
+    "order": "3",
+    "attribute": ""
+  },
+  {
+    "id": 17,
+    "type": "skill",
+    "value": "gardening",
+    "word": "園藝",
+    "order": "4",
+    "attribute": ""
+  },
+  {
+    "id": 18,
+    "type": "skill",
+    "value": "flowers",
+    "word": "插花",
+    "order": "5",
+    "attribute": ""
+  },
+  {
+    "id": 19,
+    "type": "skill",
+    "value": "Security",
+    "word": "安全",
+    "order": "6",
+    "attribute": ""
+  },
+  {
+    "id": 20,
+    "type": "skill",
+    "value": "environmental",
+    "word": "環保",
+    "order": "7",
+    "attribute": ""
+  },
+  {
+    "id": 21,
+    "type": "skill",
+    "value": "traffic",
+    "word": "交通",
+    "order": "8",
+    "attribute": ""
+  },
+  {
+    "id": 22,
+    "type": "skill",
+    "value": "Building materials",
+    "word": "建材",
+    "order": "9",
+    "attribute": ""
+  },
+  {
+    "id": 23,
+    "type": "skill",
+    "value": "cook",
+    "word": "膳食",
+    "order": "10",
+    "attribute": ""
+  },
+  {
+    "id": 24,
+    "type": "skill",
+    "value": "funeral",
+    "word": "殯葬",
+    "order": "11",
+    "attribute": ""
+  },
+  {
+    "id": 25,
+    "type": "skill",
+    "value": "Medical",
+    "word": "醫療",
+    "order": "12",
+    "attribute": ""
+  },
+  {
+    "id": 26,
+    "type": "skill",
+    "value": "Music equipment",
+    "word": "音樂設備",
+    "order": "13",
+    "attribute": ""
+  },
+  {
+    "id": 27,
+    "type": "skill",
+    "value": "photography",
+    "word": "攝影",
+    "order": "14",
+    "attribute": ""
+  },
+  {
+    "id": 28,
+    "type": "skill",
+    "value": "art",
+    "word": "美術",
+    "order": "15",
+    "attribute": ""
+  },
+  {
+    "id": 29,
+    "type": "skill",
+    "value": "music",
+    "word": "音樂",
+    "order": "16",
+    "attribute": ""
+  },
+  {
+    "id": 30,
+    "type": "skill",
+    "value": "design",
+    "word": "設計",
+    "order": "17",
+    "attribute": ""
+  },
+  {
+    "id": 31,
+    "type": "skill",
+    "value": "literature",
+    "word": "文學",
+    "order": "18",
+    "attribute": ""
+  },
+  {
+    "id": 32,
+    "type": "skill",
+    "value": "print",
+    "word": "印刷",
+    "order": "19",
+    "attribute": ""
+  },
+  {
+    "id": 33,
+    "type": "skill",
+    "value": "Information",
+    "word": "資工",
+    "order": "20",
+    "attribute": ""
+  },
+  {
+    "id": 34,
+    "type": "skill",
+    "value": "Nanny",
+    "word": "保姆",
+    "order": "21",
+    "attribute": ""
+  },
+  {
+    "id": 35,
+    "type": "receive_type",
+    "value": "applicating",
+    "word": "申請中",
+    "order": "1",
+    "attribute": ""
+  },
+  {
+    "id": 36,
+    "type": "receive_type",
+    "value": "making",
+    "word": "處理中",
+    "order": "2",
+    "attribute": ""
+  },
+  {
+    "id": 37,
+    "type": "receive_type",
+    "value": "waiting",
+    "word": "等待領取",
+    "order": "3",
+    "attribute": ""
+  },
+  {
+    "id": 38,
+    "type": "receive_type",
+    "value": "received",
+    "word": "已領取",
+    "order": "4",
+    "attribute": ""
+  },
+  {
+    "id": 39,
+    "type": "temple_type",
+    "value": "public",
+    "word": "公共佛堂",
+    "order": "1",
+    "attribute": ""
+  },
+  {
+    "id": 40,
+    "type": "temple_type",
+    "value": "family",
+    "word": "家庭佛堂",
+    "order": "2",
+    "attribute": ""
+  },
+  {
+    "id": 41,
+    "type": "temple_type",
+    "value": "interim",
+    "word": "臨時佛堂",
+    "order": "3",
+    "attribute": ""
+  },
+  {
+    "id": 42,
+    "type": "position",
+    "value": "position1",
+    "word": "重聖輕凡",
+    "order": "1",
+    "attribute": ""
+  },
+  {
+    "id": 43,
+    "type": "position",
+    "value": "position2",
+    "word": "財法雙施",
+    "order": "2",
+    "attribute": ""
+  },
+  {
+    "id": 44,
+    "type": "position",
+    "value": "position3",
+    "word": "清口茹素",
+    "order": "3",
+    "attribute": ""
+  },
+  {
+    "id": 45,
+    "type": "position",
+    "value": "position4",
+    "word": "捨身辦道",
+    "order": "4",
+    "attribute": ""
+  },
+  {
+    "id": 46,
+    "type": "position",
+    "value": "position5",
+    "word": "開設佛堂",
+    "order": "5",
+    "attribute": ""
+  },
+  {
+    "id": 47,
+    "type": "position",
+    "value": "position6",
+    "word": "開荒下種",
+    "order": "6",
+    "attribute": ""
+  },
+  {
+    "id": 48,
+    "type": "work",
+    "value": "worker",
+    "word": "辦事人員",
+    "order": "1",
+    "attribute": ""
+  },
+  {
+    "id": 49,
+    "type": "work",
+    "value": "speaker_ago",
+    "word": "講員",
+    "order": "2",
+    "attribute": ""
+  },
+  {
+    "id": 50,
+    "type": "work",
+    "value": "speaker",
+    "word": "講師",
+    "order": "3",
+    "attribute": ""
+  },
+  {
+    "id": 51,
+    "type": "work",
+    "value": "Dianchuanshi",
+    "word": "點傳師",
+    "order": "4",
+    "attribute": ""
+  },
+  {
+    "id": 52,
+    "type": "group",
+    "value": "group1",
+    "word": "成全組",
+    "order": "1",
+    "attribute": ""
+  },
+  {
+    "id": 53,
+    "type": "group",
+    "value": "group2",
+    "word": "弘道組",
+    "order": "2",
+    "attribute": ""
+  },
+  {
+    "id": 54,
+    "type": "group",
+    "value": "group3",
+    "word": "學務組",
+    "order": "3",
+    "attribute": ""
+  },
+  {
+    "id": 55,
+    "type": "group",
+    "value": "group4",
+    "word": "國外組",
+    "order": "4",
+    "attribute": ""
+  },
+  {
+    "id": 56,
+    "type": "group",
+    "value": "group5",
+    "word": "文教組",
+    "order": "5",
+    "attribute": ""
+  },
+  {
+    "id": 57,
+    "type": "group",
+    "value": "group6",
+    "word": "文書組",
+    "order": "6",
+    "attribute": ""
+  },
+  {
+    "id": 58,
+    "type": "group",
+    "value": "group7",
+    "word": "天廚組",
+    "order": "7",
+    "attribute": ""
+  },
+  {
+    "id": 59,
+    "type": "group",
+    "value": "group8",
+    "word": "庶務組",
+    "order": "8",
+    "attribute": ""
+  },
+  {
+    "id": 60,
+    "type": "group",
+    "value": "group9",
+    "word": "財務組",
+    "order": "9",
+    "attribute": ""
+  },
+  {
+    "id": 61,
+    "type": "group_type",
+    "value": "leader",
+    "word": "組長",
+    "order": "1",
+    "attribute": ""
+  },
+  {
+    "id": 62,
+    "type": "group_type",
+    "value": "deputy_leader",
+    "word": "副組長",
+    "order": "2",
+    "attribute": ""
+  },
+  {
+    "id": 63,
+    "type": "group_type",
+    "value": "member",
+    "word": "組員",
+    "order": "3",
+    "attribute": ""
+  },
+  {
+    "id": 64,
+    "type": "cls_type",
+    "value": "one",
+    "word": "一天法會",
+    "order": "1",
+    "attribute": ""
+  },
+  {
+    "id": 65,
+    "type": "cls_type",
+    "value": "recls",
+    "word": "複習班",
+    "order": "2",
+    "attribute": ""
+  },
+  {
+    "id": 66,
+    "type": "cls_type",
+    "value": "three",
+    "word": "三天法會",
+    "order": "3",
+    "attribute": ""
+  },
+  {
+    "id": 67,
+    "type": "dispatch",
+    "value": "Dianchuanshi",
+    "word": "主班經理",
+    "order": "1",
+    "attribute": ""
+  },
+  {
+    "id": 68,
+    "type": "dispatch",
+    "value": "Dianchuanshi2",
+    "word": "助班經理",
+    "order": "2",
+    "attribute": ""
+  },
+  {
+    "id": 69,
+    "type": "dispatch",
+    "value": "upper",
+    "word": "上執禮",
+    "order": "3",
+    "attribute": ""
+  },
+  {
+    "id": 70,
+    "type": "dispatch",
+    "value": "lowwer",
+    "word": "下執禮",
+    "order": "4",
+    "attribute": ""
+  },
+  {
+    "id": 71,
+    "type": "dispatch",
+    "value": "action",
+    "word": "獻供",
+    "order": "5",
+    "attribute": ""
+  },
+  {
+    "id": 72,
+    "type": "dispatch",
+    "value": "preside",
+    "word": "操持",
+    "order": "6",
+    "attribute": ""
+  },
+  {
+    "id": 73,
+    "type": "dispatch",
+    "value": "support",
+    "word": "陪壇",
+    "order": "7",
+    "attribute": ""
+  },
+  {
+    "id": 74,
+    "type": "dispatch",
+    "value": "counseling",
+    "word": "輔導員",
+    "order": "8",
+    "attribute": ""
+  },
+  {
+    "id": 75,
+    "type": "dispatch",
+    "value": "write",
+    "word": "板書",
+    "order": "9",
+    "attribute": ""
+  },
+  {
+    "id": 76,
+    "type": "dispatch",
+    "value": "towel",
+    "word": "打毛巾",
+    "order": "10",
+    "attribute": ""
+  },
+  {
+    "id": 77,
+    "type": "dispatch",
+    "value": "music",
+    "word": "音響",
+    "order": "11",
+    "attribute": ""
+  },
+  {
+    "id": 78,
+    "type": "dispatch",
+    "value": "service1",
+    "word": "招待前賢",
+    "order": "12",
+    "attribute": ""
+  },
+  {
+    "id": 79,
+    "type": "dispatch",
+    "value": "traffic",
+    "word": "交通",
+    "order": "13",
+    "attribute": ""
+  },
+  {
+    "id": 80,
+    "type": "dispatch",
+    "value": "affairs",
+    "word": "總務",
+    "order": "14",
+    "attribute": ""
+  },
+  {
+    "id": 81,
+    "type": "dispatch",
+    "value": "cooker",
+    "word": "廚房",
+    "order": "15",
+    "attribute": ""
+  },
+  {
+    "id": 82,
+    "type": "dispatch",
+    "value": "uplow",
+    "word": "上下台",
+    "order": "16",
+    "attribute": ""
+  },
+  {
+    "id": 83,
+    "type": "dispatch",
+    "value": "sambo",
+    "word": "複習三寶",
+    "order": "17",
+    "attribute": ""
+  },
+  {
+    "id": 84,
+    "type": "dispatch",
+    "value": "add",
+    "word": "掛號",
+    "order": "18",
+    "attribute": ""
+  },
+  {
+    "id": 85,
+    "type": "dispatch",
+    "value": "aegis",
+    "word": "護法",
+    "order": "19",
+    "attribute": ""
+  },
+  {
+    "id": 86,
+    "type": "dispatch",
+    "value": "flower",
+    "word": "插花",
+    "order": "20",
+    "attribute": ""
+  },
+  {
+    "id": 87,
+    "type": "dispatch",
+    "value": "accounting",
+    "word": "會計",
+    "order": "21",
+    "attribute": ""
+  },
+  {
+    "id": 88,
+    "type": "dispatch",
+    "value": "course",
+    "word": "課程",
+    "order": "22",
+    "attribute": ""
+  },
+  {
+    "id": 89,
+    "type": "dispatch",
+    "value": "lecturer",
+    "word": "授課",
+    "order": "23",
+    "attribute": ""
+  },
+  {
+    "id": 90,
+    "type": "dispatch",
+    "value": "member",
+    "word": "班員",
+    "order": "24",
+    "attribute": ""
+  },
+  {
+    "id": 91,
+    "type": "books_type",
+    "value": "kind001",
+    "word": "一條金線",
+    "order": "1",
+    "attribute": "善書類"
+  },
+  {
+    "id": 92,
+    "type": "books_type",
+    "value": "kind002",
+    "word": "了凡四訓",
+    "order": "2",
+    "attribute": "善書類"
+  },
+  {
+    "id": 93,
+    "type": "books_type",
+    "value": "kind003",
+    "word": "人生何處去",
+    "order": "3",
+    "attribute": "善書類"
+  },
+  {
+    "id": 94,
+    "type": "books_type",
+    "value": "kind004",
+    "word": "十條大愿還鄉覺路",
+    "order": "4",
+    "attribute": "善書類"
+  },
+  {
+    "id": 95,
+    "type": "books_type",
+    "value": "kind005",
+    "word": "三天班立愿掛號單",
+    "order": "5",
+    "attribute": "善書類"
+  },
+  {
+    "id": 96,
+    "type": "books_type",
+    "value": "kind006",
+    "word": "大道見聞錄",
+    "order": "6",
+    "attribute": "善書類"
+  },
+  {
+    "id": 97,
+    "type": "books_type",
+    "value": "kind007",
+    "word": "文成天仙結緣訓",
+    "order": "7",
+    "attribute": "善書類"
+  },
+  {
+    "id": 98,
+    "type": "books_type",
+    "value": "kind008",
+    "word": "文慈仙君結緣訓",
+    "order": "8",
+    "attribute": "善書類"
+  },
+  {
+    "id": 99,
+    "type": "books_type",
+    "value": "kind009",
+    "word": "末後修辦指南",
+    "order": "9",
+    "attribute": "善書類"
+  },
+  {
+    "id": 100,
+    "type": "books_type",
+    "value": "kind010",
+    "word": "如何創造幸福人生",
+    "order": "10",
+    "attribute": "善書類"
+  },
+  {
+    "id": 101,
+    "type": "books_type",
+    "value": "kind011",
+    "word": "自省文",
+    "order": "11",
+    "attribute": "善書類"
+  },
+  {
+    "id": 102,
+    "type": "books_type",
+    "value": "kind012",
+    "word": "衣索比亞難民的哀嚎",
+    "order": "12",
+    "attribute": "善書類"
+  },
+  {
+    "id": 103,
+    "type": "books_type",
+    "value": "kind013",
+    "word": "佛規諭錄",
+    "order": "13",
+    "attribute": "善書類"
+  },
+  {
+    "id": 104,
+    "type": "books_type",
+    "value": "kind014",
+    "word": "求道卡(中)",
+    "order": "14",
+    "attribute": "善書類"
+  },
+  {
+    "id": 105,
+    "type": "books_type",
+    "value": "kind015",
+    "word": "求道卡(英字)",
+    "order": "15",
+    "attribute": "善書類"
+  },
+  {
+    "id": 106,
+    "type": "books_type",
+    "value": "kind016",
+    "word": "求道卡(英圖)",
+    "order": "16",
+    "attribute": "善書類"
+  },
+  {
+    "id": 107,
+    "type": "books_type",
+    "value": "kind017",
+    "word": "性理題釋",
+    "order": "17",
+    "attribute": "善書類"
+  },
+  {
+    "id": 108,
+    "type": "books_type",
+    "value": "kind018",
+    "word": "皇 心聲(94甲申)",
+    "order": "18",
+    "attribute": "善書類"
+  },
+  {
+    "id": 109,
+    "type": "books_type",
+    "value": "kind019",
+    "word": "皇 家書",
+    "order": "19",
+    "attribute": "善書類"
+  },
+  {
+    "id": 110,
+    "type": "books_type",
+    "value": "kind020",
+    "word": "皇 家書(癸未，奉恩)",
+    "order": "20",
+    "attribute": "善書類"
+  },
+  {
+    "id": 111,
+    "type": "books_type",
+    "value": "kind021",
+    "word": "皇 結緣(壬午)",
+    "order": "21",
+    "attribute": "善書類"
+  },
+  {
+    "id": 112,
+    "type": "books_type",
+    "value": "kind022",
+    "word": "皇 慈訓(1990)",
+    "order": "22",
+    "attribute": "善書類"
+  },
+  {
+    "id": 113,
+    "type": "books_type",
+    "value": "kind023",
+    "word": "皇 慈訓(78）",
+    "order": "23",
+    "attribute": "善書類"
+  },
+  {
+    "id": 114,
+    "type": "books_type",
+    "value": "kind024",
+    "word": "皇 慈訓(95夏季/奉恩)",
+    "order": "24",
+    "attribute": "善書類"
+  },
+  {
+    "id": 115,
+    "type": "books_type",
+    "value": "kind025",
+    "word": "皇 慈訓(辛卯)",
+    "order": "25",
+    "attribute": "善書類"
+  },
+  {
+    "id": 116,
+    "type": "books_type",
+    "value": "kind026",
+    "word": "皇 慈訓(庚午)",
+    "order": "26",
+    "attribute": "善書類"
+  },
+  {
+    "id": 117,
+    "type": "books_type",
+    "value": "kind027",
+    "word": "皇 慈訓(癸未)",
+    "order": "27",
+    "attribute": "善書類"
+  },
+  {
+    "id": 118,
+    "type": "books_type",
+    "value": "kind028",
+    "word": "皇 慈訓十誡",
+    "order": "28",
+    "attribute": "善書類"
+  },
+  {
+    "id": 119,
+    "type": "books_type",
+    "value": "kind029",
+    "word": "科學時代因果錄(一)",
+    "order": "29",
+    "attribute": "善書類"
+  },
+  {
+    "id": 120,
+    "type": "books_type",
+    "value": "kind030",
+    "word": "科學時代因果錄(二)",
+    "order": "30",
+    "attribute": "善書類"
+  },
+  {
+    "id": 121,
+    "type": "books_type",
+    "value": "kind031",
+    "word": "科學時代因果錄(三)",
+    "order": "31",
+    "attribute": "善書類"
+  },
+  {
+    "id": 122,
+    "type": "books_type",
+    "value": "kind032",
+    "word": "張月珠點傳師結緣訓",
+    "order": "32",
+    "attribute": "善書類"
+  },
+  {
+    "id": 123,
+    "type": "books_type",
+    "value": "kind033",
+    "word": "集賢樓落成師尊指示訓",
+    "order": "33",
+    "attribute": "善書類"
+  },
+  {
+    "id": 124,
+    "type": "books_type",
+    "value": "kind034",
+    "word": "傳承錫杖再現天機",
+    "order": "34",
+    "attribute": "善書類"
+  },
+  {
+    "id": 125,
+    "type": "books_type",
+    "value": "kind035",
+    "word": "圓覺淺言",
+    "order": "35",
+    "attribute": "善書類"
+  },
+  {
+    "id": 126,
+    "type": "books_type",
+    "value": "kind036",
+    "word": "慈化仙母結緣訓",
+    "order": "36",
+    "attribute": "善書類"
+  },
+  {
+    "id": 127,
+    "type": "books_type",
+    "value": "kind037",
+    "word": "慈恩大仙結緣訓",
+    "order": "37",
+    "attribute": "善書類"
+  },
+  {
+    "id": 128,
+    "type": "books_type",
+    "value": "kind038",
+    "word": "道之尊貴(三)",
+    "order": "38",
+    "attribute": "善書類"
+  },
+  {
+    "id": 129,
+    "type": "books_type",
+    "value": "kind039",
+    "word": "道之尊貴(四)",
+    "order": "39",
+    "attribute": "善書類"
+  },
+  {
+    "id": 130,
+    "type": "books_type",
+    "value": "kind040",
+    "word": "道之尊貴(五)",
+    "order": "40",
+    "attribute": "善書類"
+  },
+  {
+    "id": 131,
+    "type": "books_type",
+    "value": "kind041",
+    "word": "道之尊貴(六)",
+    "order": "41",
+    "attribute": "善書類"
+  },
+  {
+    "id": 132,
+    "type": "books_type",
+    "value": "kind042",
+    "word": "道脈源流",
+    "order": "42",
+    "attribute": "善書類"
+  },
+  {
+    "id": 133,
+    "type": "books_type",
+    "value": "kind043",
+    "word": "道義入門",
+    "order": "43",
+    "attribute": "善書類"
+  },
+  {
+    "id": 134,
+    "type": "books_type",
+    "value": "kind044",
+    "word": "道義根本",
+    "order": "44",
+    "attribute": "善書類"
+  },
+  {
+    "id": 135,
+    "type": "books_type",
+    "value": "kind045",
+    "word": "福德大仙結緣訓",
+    "order": "45",
+    "attribute": "善書類"
+  },
+  {
+    "id": 136,
+    "type": "books_type",
+    "value": "kind046",
+    "word": "認理歸真(舊)",
+    "order": "46",
+    "attribute": "善書類"
+  },
+  {
+    "id": 137,
+    "type": "books_type",
+    "value": "kind047",
+    "word": "慧慈菩薩紀念手冊",
+    "order": "47",
+    "attribute": "善書類"
+  },
+  {
+    "id": 138,
+    "type": "books_type",
+    "value": "kind048",
+    "word": "慧慈菩薩結緣訓",
+    "order": "48",
+    "attribute": "善書類"
+  },
+  {
+    "id": 139,
+    "type": "books_type",
+    "value": "kind049",
+    "word": "濟公活佛勸世聖訓",
+    "order": "49",
+    "attribute": "善書類"
+  },
+  {
+    "id": 140,
+    "type": "books_type",
+    "value": "child001",
+    "word": "生活公約",
+    "order": "1",
+    "attribute": "兒童讀經類"
+  },
+  {
+    "id": 141,
+    "type": "books_type",
+    "value": "child002",
+    "word": "百孝經墊板",
+    "order": "2",
+    "attribute": "兒童讀經類"
+  },
+  {
+    "id": 142,
+    "type": "books_type",
+    "value": "child003",
+    "word": "兒童讀經教學手冊",
+    "order": "3",
+    "attribute": "兒童讀經類"
+  },
+  {
+    "id": 143,
+    "type": "books_type",
+    "value": "child004",
+    "word": "孟子選讀",
+    "order": "4",
+    "attribute": "兒童讀經類"
+  },
+  {
+    "id": 144,
+    "type": "books_type",
+    "value": "child005",
+    "word": "易經讀本上",
+    "order": "5",
+    "attribute": "兒童讀經類"
+  },
+  {
+    "id": 145,
+    "type": "books_type",
+    "value": "child006",
+    "word": "易經讀本下",
+    "order": "6",
+    "attribute": "兒童讀經類"
+  },
+  {
+    "id": 146,
+    "type": "books_type",
+    "value": "child007",
+    "word": "孩子的心父母的愛1",
+    "order": "7",
+    "attribute": "兒童讀經類"
+  },
+  {
+    "id": 147,
+    "type": "books_type",
+    "value": "child008",
+    "word": "孩子的心父母的愛2",
+    "order": "8",
+    "attribute": "兒童讀經類"
+  },
+  {
+    "id": 148,
+    "type": "books_type",
+    "value": "child009",
+    "word": "孩子的心父母的愛3",
+    "order": "9",
+    "attribute": "兒童讀經類"
+  },
+  {
+    "id": 149,
+    "type": "books_type",
+    "value": "child010",
+    "word": "啟蒙箴規",
+    "order": "10",
+    "attribute": "兒童讀經類"
+  },
+  {
+    "id": 150,
+    "type": "books_type",
+    "value": "child011",
+    "word": "常禮舉要墊板",
+    "order": "11",
+    "attribute": "兒童讀經類"
+  },
+  {
+    "id": 151,
+    "type": "books_type",
+    "value": "child012",
+    "word": "經典讀本卷二",
+    "order": "12",
+    "attribute": "兒童讀經類"
+  },
+  {
+    "id": 152,
+    "type": "books_type",
+    "value": "child013",
+    "word": "詩經選讀",
+    "order": "13",
+    "attribute": "兒童讀經類"
+  },
+  {
+    "id": 153,
+    "type": "books_type",
+    "value": "child014",
+    "word": "道德經讀本",
+    "order": "14",
+    "attribute": "兒童讀經類"
+  },
+  {
+    "id": 154,
+    "type": "books_type",
+    "value": "child015",
+    "word": "請老師指導詞",
+    "order": "15",
+    "attribute": "兒童讀經類"
+  },
+  {
+    "id": 155,
+    "type": "books_type",
+    "value": "child016",
+    "word": "論語讀本卷上",
+    "order": "16",
+    "attribute": "兒童讀經類"
+  },
+  {
+    "id": 156,
+    "type": "books_type",
+    "value": "child017",
+    "word": "論語讀本卷下",
+    "order": "17",
+    "attribute": "兒童讀經類"
+  },
+  {
+    "id": 157,
+    "type": "books_type",
+    "value": "child018",
+    "word": "學庸孝經",
+    "order": "18",
+    "attribute": "兒童讀經類"
+  },
+  {
+    "id": 158,
+    "type": "books_type",
+    "value": "child019",
+    "word": "親子讀經複習手冊",
+    "order": "19",
+    "attribute": "兒童讀經類"
+  },
+  {
+    "id": 159,
+    "type": "books_type",
+    "value": "child020",
+    "word": "親子讀經複習記錄手冊",
+    "order": "20",
+    "attribute": "兒童讀經類"
+  },
+  {
+    "id": 160,
+    "type": "books_type",
+    "value": "child021",
+    "word": "讀經小口訣",
+    "order": "21",
+    "attribute": "兒童讀經類"
+  },
+  {
+    "id": 161,
+    "type": "books_type",
+    "value": "child022",
+    "word": "讀經的祝福",
+    "order": "22",
+    "attribute": "兒童讀經類"
+  },
+  {
+    "id": 162,
+    "type": "books_type",
+    "value": "handouts001",
+    "word": "101年度長青班手冊",
+    "order": "1",
+    "attribute": "講義類"
+  },
+  {
+    "id": 163,
+    "type": "books_type",
+    "value": "handouts002",
+    "word": "101年培德懺悔班手冊",
+    "order": "2",
+    "attribute": "講義類"
+  },
+  {
+    "id": 164,
+    "type": "books_type",
+    "value": "handouts003",
+    "word": "101長青班手冊",
+    "order": "3",
+    "attribute": "講義類"
+  },
+  {
+    "id": 165,
+    "type": "books_type",
+    "value": "handouts004",
+    "word": "102年度長青班手冊",
+    "order": "4",
+    "attribute": "講義類"
+  },
+  {
+    "id": 166,
+    "type": "books_type",
+    "value": "handouts005",
+    "word": "102長青班手冊",
+    "order": "5",
+    "attribute": "講義類"
+  },
+  {
+    "id": 167,
+    "type": "books_type",
+    "value": "handouts006",
+    "word": "103年度長青班手冊",
+    "order": "6",
+    "attribute": "講義類"
+  },
+  {
+    "id": 168,
+    "type": "books_type",
+    "value": "handouts007",
+    "word": "103長青班手冊",
+    "order": "7",
+    "attribute": "講義類"
+  },
+  {
+    "id": 169,
+    "type": "books_type",
+    "value": "handouts008",
+    "word": "104長青班手冊",
+    "order": "8",
+    "attribute": "講義類"
+  },
+  {
+    "id": 170,
+    "type": "books_type",
+    "value": "handouts009",
+    "word": "98年度長青班手冊",
+    "order": "9",
+    "attribute": "講義類"
+  },
+  {
+    "id": 171,
+    "type": "books_type",
+    "value": "handouts010",
+    "word": "99儒志願行班手冊",
+    "order": "10",
+    "attribute": "講義類"
+  },
+  {
+    "id": 172,
+    "type": "books_type",
+    "value": "handouts011",
+    "word": "大學證釋本",
+    "order": "11",
+    "attribute": "講義類"
+  },
+  {
+    "id": 173,
+    "type": "books_type",
+    "value": "handouts012",
+    "word": "中庸會通(德宣3刷)",
+    "order": "12",
+    "attribute": "講義類"
+  },
+  {
+    "id": 174,
+    "type": "books_type",
+    "value": "handouts013",
+    "word": "五常德",
+    "order": "13",
+    "attribute": "講義類"
+  },
+  {
+    "id": 175,
+    "type": "books_type",
+    "value": "handouts014",
+    "word": "弘德班講義",
+    "order": "14",
+    "attribute": "講義類"
+  },
+  {
+    "id": 176,
+    "type": "books_type",
+    "value": "handouts015",
+    "word": "至善班講義",
+    "order": "15",
+    "attribute": "講義類"
+  },
+  {
+    "id": 177,
+    "type": "books_type",
+    "value": "handouts016",
+    "word": "孟子講義(第二版)",
+    "order": "16",
+    "attribute": "講義類"
+  },
+  {
+    "id": 178,
+    "type": "books_type",
+    "value": "handouts017",
+    "word": "明聖經講義",
+    "order": "17",
+    "attribute": "講義類"
+  },
+  {
+    "id": 179,
+    "type": "books_type",
+    "value": "handouts018",
+    "word": "明德班講義(98年)",
+    "order": "18",
+    "attribute": "講義類"
+  },
+  {
+    "id": 180,
+    "type": "books_type",
+    "value": "handouts019",
+    "word": "明德新民進修班資料",
+    "order": "19",
+    "attribute": "講義類"
+  },
+  {
+    "id": 181,
+    "type": "books_type",
+    "value": "handouts020",
+    "word": "明德新民進修錄",
+    "order": "20",
+    "attribute": "講義類"
+  },
+  {
+    "id": 182,
+    "type": "books_type",
+    "value": "handouts021",
+    "word": "宣德班講義",
+    "order": "21",
+    "attribute": "講義類"
+  },
+  {
+    "id": 183,
+    "type": "books_type",
+    "value": "handouts022",
+    "word": "宣德班講義(90年)",
+    "order": "22",
+    "attribute": "講義類"
+  },
+  {
+    "id": 184,
+    "type": "books_type",
+    "value": "handouts023",
+    "word": "皇 訓子十誡講義",
+    "order": "23",
+    "attribute": "講義類"
+  },
+  {
+    "id": 185,
+    "type": "books_type",
+    "value": "handouts024",
+    "word": "新民班講義",
+    "order": "24",
+    "attribute": "講義類"
+  },
+  {
+    "id": 186,
+    "type": "books_type",
+    "value": "handouts025",
+    "word": "經典研習手冊",
+    "order": "25",
+    "attribute": "講義類"
+  },
+  {
+    "id": 187,
+    "type": "books_type",
+    "value": "handouts026",
+    "word": "經典班講義卷一",
+    "order": "26",
+    "attribute": "講義類"
+  },
+  {
+    "id": 188,
+    "type": "books_type",
+    "value": "handouts027",
+    "word": "經典班講義卷一(第二屆)",
+    "order": "27",
+    "attribute": "講義類"
+  },
+  {
+    "id": 189,
+    "type": "books_type",
+    "value": "handouts028",
+    "word": "經典班講義卷二(第二屆)",
+    "order": "28",
+    "attribute": "講義類"
+  },
+  {
+    "id": 190,
+    "type": "books_type",
+    "value": "handouts029",
+    "word": "經典班講義卷四(第二屆)",
+    "order": "29",
+    "attribute": "講義類"
+  },
+  {
+    "id": 191,
+    "type": "books_type",
+    "value": "handouts030",
+    "word": "道義題解卷一",
+    "order": "30",
+    "attribute": "講義類"
+  },
+  {
+    "id": 192,
+    "type": "books_type",
+    "value": "handouts031",
+    "word": "道德經臨本",
+    "order": "31",
+    "attribute": "講義類"
+  },
+  {
+    "id": 193,
+    "type": "books_type",
+    "value": "handouts032",
+    "word": "達德精進班題綱",
+    "order": "32",
+    "attribute": "講義類"
+  },
+  {
+    "id": 194,
+    "type": "books_type",
+    "value": "handouts033",
+    "word": "儒志愿行班手冊",
+    "order": "33",
+    "attribute": "講義類"
+  },
+  {
+    "id": 195,
+    "type": "books_type",
+    "value": "handouts034",
+    "word": "儒志愿行精進班手冊",
+    "order": "34",
+    "attribute": "講義類"
+  },
+  {
+    "id": 196,
+    "type": "books_type",
+    "value": "handouts035",
+    "word": "整體班程學習手冊",
+    "order": "35",
+    "attribute": "講義類"
+  },
+  {
+    "id": 197,
+    "type": "books_type",
+    "value": "handouts036",
+    "word": "懺悔班手冊",
+    "order": "36",
+    "attribute": "講義類"
+  },
+  {
+    "id": 198,
+    "type": "books_type",
+    "value": "collection001",
+    "word": "1982-1996白陽寶典(美加)",
+    "order": "1",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 199,
+    "type": "books_type",
+    "value": "collection002",
+    "word": "1991白陽寶典(訓文集)",
+    "order": "2",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 200,
+    "type": "books_type",
+    "value": "collection003",
+    "word": "1992皇慈訓",
+    "order": "3",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 201,
+    "type": "books_type",
+    "value": "collection004",
+    "word": "1994白陽寶典(訓文集)",
+    "order": "4",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 202,
+    "type": "books_type",
+    "value": "collection005",
+    "word": "2004.93印菲",
+    "order": "5",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 203,
+    "type": "books_type",
+    "value": "collection006",
+    "word": "2004.93其他國家",
+    "order": "6",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 204,
+    "type": "books_type",
+    "value": "collection007",
+    "word": "2004.93新馬泰",
+    "order": "7",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 205,
+    "type": "books_type",
+    "value": "collection008",
+    "word": "2004.93道德重整班",
+    "order": "8",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 206,
+    "type": "books_type",
+    "value": "collection009",
+    "word": "2004白陽寶典(印菲)",
+    "order": "9",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 207,
+    "type": "books_type",
+    "value": "collection010",
+    "word": "2005.94印菲",
+    "order": "10",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 208,
+    "type": "books_type",
+    "value": "collection011",
+    "word": "2005.94年度訓文",
+    "order": "11",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 209,
+    "type": "books_type",
+    "value": "collection012",
+    "word": "2005.94港澳日美加紐英越緬柬",
+    "order": "12",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 210,
+    "type": "books_type",
+    "value": "collection013",
+    "word": "2005.94新馬泰",
+    "order": "13",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 211,
+    "type": "books_type",
+    "value": "collection014",
+    "word": "2005白陽寶典(訓文集)",
+    "order": "14",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 212,
+    "type": "books_type",
+    "value": "collection015",
+    "word": "2006.95印菲",
+    "order": "15",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 213,
+    "type": "books_type",
+    "value": "collection016",
+    "word": "2006.95國內外常德精進班",
+    "order": "16",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 214,
+    "type": "books_type",
+    "value": "collection017",
+    "word": "2006.95港澳門美日加紐澳英越緬柬",
+    "order": "17",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 215,
+    "type": "books_type",
+    "value": "collection018",
+    "word": "2006.95新馬泰",
+    "order": "18",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 216,
+    "type": "books_type",
+    "value": "collection019",
+    "word": "2008白陽寶典(印菲)",
+    "order": "19",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 217,
+    "type": "books_type",
+    "value": "collection020",
+    "word": "2008白陽寶典(多國)",
+    "order": "20",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 218,
+    "type": "books_type",
+    "value": "collection021",
+    "word": "2009白陽寶典(印菲)",
+    "order": "21",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 219,
+    "type": "books_type",
+    "value": "collection022",
+    "word": "2009白陽寶典(多國)",
+    "order": "22",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 220,
+    "type": "books_type",
+    "value": "collection023",
+    "word": "2009白陽寶典(泰國)",
+    "order": "23",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 221,
+    "type": "books_type",
+    "value": "collection024",
+    "word": "2009白陽寶典(國內)",
+    "order": "24",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 222,
+    "type": "books_type",
+    "value": "collection025",
+    "word": "2009白陽寶典國內(己丑)",
+    "order": "25",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 223,
+    "type": "books_type",
+    "value": "collection026",
+    "word": "2010.99儒志願行班",
+    "order": "26",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 224,
+    "type": "books_type",
+    "value": "collection027",
+    "word": "2010白陽寶典(印菲)",
+    "order": "27",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 225,
+    "type": "books_type",
+    "value": "collection028",
+    "word": "2010白陽寶典(各國)",
+    "order": "28",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 226,
+    "type": "books_type",
+    "value": "collection029",
+    "word": "2010白陽寶典(泰國)",
+    "order": "29",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 227,
+    "type": "books_type",
+    "value": "collection030",
+    "word": "2011白陽寶典(印菲)",
+    "order": "30",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 228,
+    "type": "books_type",
+    "value": "collection031",
+    "word": "2011白陽寶典(美國)",
+    "order": "31",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 229,
+    "type": "books_type",
+    "value": "collection032",
+    "word": "2011白陽寶典(泰國)",
+    "order": "32",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 230,
+    "type": "books_type",
+    "value": "collection033",
+    "word": "2012懺悔班",
+    "order": "33",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 231,
+    "type": "books_type",
+    "value": "collection034",
+    "word": "2014白陽寶典(傳承班)",
+    "order": "34",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 232,
+    "type": "books_type",
+    "value": "collection035",
+    "word": "三聖經(大)",
+    "order": "35",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 233,
+    "type": "books_type",
+    "value": "collection036",
+    "word": "三聖經(小)",
+    "order": "36",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 234,
+    "type": "books_type",
+    "value": "collection037",
+    "word": "桃園明聖經(大)",
+    "order": "37",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 235,
+    "type": "books_type",
+    "value": "collection038",
+    "word": "桃園明聖經(小)",
+    "order": "38",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 236,
+    "type": "books_type",
+    "value": "collection039",
+    "word": "聖佛綸音(卷二)",
+    "order": "39",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 237,
+    "type": "books_type",
+    "value": "collection040",
+    "word": "聖佛綸音(卷三)",
+    "order": "40",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 238,
+    "type": "books_type",
+    "value": "collection041",
+    "word": "聖佛綸音(卷四)",
+    "order": "41",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 239,
+    "type": "books_type",
+    "value": "collection042",
+    "word": "聖佛綸音(卷九)",
+    "order": "42",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 240,
+    "type": "books_type",
+    "value": "collection043",
+    "word": "聖佛綸音(卷十三)",
+    "order": "43",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 241,
+    "type": "books_type",
+    "value": "collection044",
+    "word": "聖佛綸音(卷十五)",
+    "order": "44",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 242,
+    "type": "books_type",
+    "value": "collection045",
+    "word": "聖佛綸音(卷十六)",
+    "order": "45",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 243,
+    "type": "books_type",
+    "value": "collection046",
+    "word": "聖佛綸音(卷十七)",
+    "order": "46",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 244,
+    "type": "books_type",
+    "value": "collection047",
+    "word": "懺悔書經本",
+    "order": "47",
+    "attribute": "寶典類"
+  },
+  {
+    "id": 245,
+    "type": "books_type",
+    "value": "issue001",
+    "word": "95青少年學道育樂營手冊",
+    "order": "1",
+    "attribute": "特刊類"
+  },
+  {
+    "id": 246,
+    "type": "books_type",
+    "value": "issue002",
+    "word": "97青少年學道育樂營手冊",
+    "order": "2",
+    "attribute": "特刊類"
+  },
+  {
+    "id": 247,
+    "type": "books_type",
+    "value": "issue003",
+    "word": "100年成年禮手冊",
+    "order": "3",
+    "attribute": "特刊類"
+  },
+  {
+    "id": 248,
+    "type": "books_type",
+    "value": "issue004",
+    "word": "100年青少年手冊",
+    "order": "4",
+    "attribute": "特刊類"
+  },
+  {
+    "id": 249,
+    "type": "books_type",
+    "value": "issue005",
+    "word": "101少年學道營手冊",
+    "order": "5",
+    "attribute": "特刊類"
+  },
+  {
+    "id": 250,
+    "type": "books_type",
+    "value": "issue006",
+    "word": "103年少年學道育樂營學員手冊",
+    "order": "6",
+    "attribute": "特刊類"
+  },
+  {
+    "id": 251,
+    "type": "books_type",
+    "value": "issue007",
+    "word": "104年少年學道育樂營學員手冊",
+    "order": "7",
+    "attribute": "特刊類"
+  },
+  {
+    "id": 252,
+    "type": "books_type",
+    "value": "issue008",
+    "word": "103青年學道營手冊",
+    "order": "8",
+    "attribute": "特刊類"
+  },
+  {
+    "id": 253,
+    "type": "books_type",
+    "value": "issue009",
+    "word": "一貫薪傳",
+    "order": "9",
+    "attribute": "特刊類"
+  },
+  {
+    "id": 254,
+    "type": "books_type",
+    "value": "issue010",
+    "word": "一貫馨香",
+    "order": "10",
+    "attribute": "特刊類"
+  },
+  {
+    "id": 255,
+    "type": "books_type",
+    "value": "issue011",
+    "word": "加拿大多倫多賢修壇21週年喬遷落成特刊",
+    "order": "11",
+    "attribute": "特刊類"
+  },
+  {
+    "id": 256,
+    "type": "books_type",
+    "value": "issue012",
+    "word": "光明集刊(六)",
+    "order": "12",
+    "attribute": "特刊類"
+  },
+  {
+    "id": 257,
+    "type": "books_type",
+    "value": "issue013",
+    "word": "師母百年誔辰紀念特刊",
+    "order": "13",
+    "attribute": "特刊類"
+  },
+  {
+    "id": 258,
+    "type": "books_type",
+    "value": "issue014",
+    "word": "殊德仙君成道十週年紀念刊物",
+    "order": "14",
+    "attribute": "特刊類"
+  },
+  {
+    "id": 259,
+    "type": "books_type",
+    "value": "issue015",
+    "word": "真智儒風",
+    "order": "15",
+    "attribute": "特刊類"
+  },
+  {
+    "id": 260,
+    "type": "books_type",
+    "value": "issue016",
+    "word": "菩薩愿行",
+    "order": "16",
+    "attribute": "特刊類"
+  },
+  {
+    "id": 261,
+    "type": "books_type",
+    "value": "issue017",
+    "word": "集賢樓落成特刊",
+    "order": "17",
+    "attribute": "特刊類"
+  },
+  {
+    "id": 262,
+    "type": "books_type",
+    "value": "issue018",
+    "word": "傳承家風",
+    "order": "18",
+    "attribute": "特刊類"
+  },
+  {
+    "id": 263,
+    "type": "books_type",
+    "value": "issue019",
+    "word": "慈恩永懷",
+    "order": "19",
+    "attribute": "特刊類"
+  },
+  {
+    "id": 264,
+    "type": "books_type",
+    "value": "issue020",
+    "word": "慈訓法音",
+    "order": "20",
+    "attribute": "特刊類"
+  },
+  {
+    "id": 265,
+    "type": "books_type",
+    "value": "issue021",
+    "word": "義風遠颺",
+    "order": "21",
+    "attribute": "特刊類"
+  },
+  {
+    "id": 266,
+    "type": "books_type",
+    "value": "issue022",
+    "word": "道光二",
+    "order": "22",
+    "attribute": "特刊類"
+  },
+  {
+    "id": 267,
+    "type": "books_type",
+    "value": "issue023",
+    "word": "道光四",
+    "order": "23",
+    "attribute": "特刊類"
+  },
+  {
+    "id": 268,
+    "type": "books_type",
+    "value": "issue024",
+    "word": "道光五",
+    "order": "24",
+    "attribute": "特刊類"
+  },
+  {
+    "id": 269,
+    "type": "books_type",
+    "value": "issue025",
+    "word": "道光六",
+    "order": "25",
+    "attribute": "特刊類"
+  },
+  {
+    "id": 270,
+    "type": "books_type",
+    "value": "issue026",
+    "word": "慧性慈心一菩薩CD",
+    "order": "26",
+    "attribute": "特刊類"
+  },
+  {
+    "id": 271,
+    "type": "books_type",
+    "value": "issue027",
+    "word": "慧性慈心一菩薩DVD",
+    "order": "27",
+    "attribute": "特刊類"
+  },
+  {
+    "id": 272,
+    "type": "books_type",
+    "value": "issue028",
+    "word": "犧牲無畏德範長存",
+    "order": "28",
+    "attribute": "特刊類"
+  },
+  {
+    "id": 273,
+    "type": "books_type",
+    "value": "issue029",
+    "word": "靈機普化 DVD",
+    "order": "29",
+    "attribute": "特刊類"
+  },
+  {
+    "id": 274,
+    "type": "books_type",
+    "value": "issue030",
+    "word": "靈機普化 DVD+3CD",
+    "order": "30",
+    "attribute": "特刊類"
+  },
+  {
+    "id": 275,
+    "type": "books_type",
+    "value": "issue031",
+    "word": "靈機普化 書",
+    "order": "31",
+    "attribute": "特刊類"
+  },
+  {
+    "id": 276,
+    "type": "books_type",
+    "value": "form001",
+    "word": "更正求道",
+    "order": "1",
+    "attribute": "表文類"
+  },
+  {
+    "id": 277,
+    "type": "books_type",
+    "value": "form002",
+    "word": "求道表文",
+    "order": "2",
+    "attribute": "表文類"
+  },
+  {
+    "id": 278,
+    "type": "books_type",
+    "value": "form003",
+    "word": "清口表文",
+    "order": "3",
+    "attribute": "表文類"
+  },
+  {
+    "id": 279,
+    "type": "books_type",
+    "value": "form004",
+    "word": "撤銷表文",
+    "order": "4",
+    "attribute": "表文類"
+  },
+  {
+    "id": 280,
+    "type": "books_type",
+    "value": "form005",
+    "word": "壇主表文",
+    "order": "5",
+    "attribute": "表文類"
+  },
+  {
+    "id": 281,
+    "type": "books_type",
+    "value": "form006",
+    "word": "懺悔表文",
+    "order": "6",
+    "attribute": "表文類"
+  },
+  {
+    "id": 282,
+    "type": "books_type",
+    "value": "language001",
+    "word": "中英文_關聖帝君覺世真經",
+    "order": "1",
+    "attribute": "外文書籍"
+  },
+  {
+    "id": 283,
+    "type": "books_type",
+    "value": "language002",
+    "word": "中英文_靈隱寺簡介",
+    "order": "2",
+    "attribute": "外文書籍"
+  },
+  {
+    "id": 284,
+    "type": "books_type",
+    "value": "language003",
+    "word": "日文_末後修辦指南_日文",
+    "order": "3",
+    "attribute": "外文書籍"
+  },
+  {
+    "id": 285,
+    "type": "books_type",
+    "value": "language004",
+    "word": "英文_Torch of Enlightenment",
+    "order": "4",
+    "attribute": "外文書籍"
+  },
+  {
+    "id": 286,
+    "type": "books_type",
+    "value": "language005",
+    "word": "英文_論語傳宗佛規-卷上",
+    "order": "5",
+    "attribute": "外文書籍"
+  },
+  {
+    "id": 287,
+    "type": "books_type",
+    "value": "language006",
+    "word": "越語_三期三寶心法",
+    "order": "6",
+    "attribute": "外文書籍"
+  },
+  {
+    "id": 288,
+    "type": "books_type",
+    "value": "language007",
+    "word": "越語_大道見聞錄",
+    "order": "7",
+    "attribute": "外文書籍"
+  },
+  {
+    "id": 289,
+    "type": "books_type",
+    "value": "language008",
+    "word": "越語_圓覺淺言",
+    "order": "8",
+    "attribute": "外文書籍"
+  },
+  {
+    "id": 290,
+    "type": "books_type",
+    "value": "language009",
+    "word": "越語_道義根本",
+    "order": "9",
+    "attribute": "外文書籍"
+  },
+  {
+    "id": 291,
+    "type": "books_type",
+    "value": "song001",
+    "word": "大哉孝乎CD第二輯",
+    "order": "1",
+    "attribute": "聖歌集"
+  },
+  {
+    "id": 292,
+    "type": "books_type",
+    "value": "song002",
+    "word": "步武聖哲卅週年紀念專輯",
+    "order": "2",
+    "attribute": "聖歌集"
+  },
+  {
+    "id": 293,
+    "type": "books_type",
+    "value": "song003",
+    "word": "雅音集五",
+    "order": "3",
+    "attribute": "聖歌集"
+  },
+  {
+    "id": 294,
+    "type": "books_type",
+    "value": "song004",
+    "word": "雅音集七",
+    "order": "4",
+    "attribute": "聖歌集"
+  },
+  {
+    "id": 295,
+    "type": "books_type",
+    "value": "song005",
+    "word": "雅音集八",
+    "order": "5",
+    "attribute": "聖歌集"
+  },
+  {
+    "id": 296,
+    "type": "books_type",
+    "value": "song006",
+    "word": "雅音集九",
+    "order": "6",
+    "attribute": "聖歌集"
+  },
+  {
+    "id": 297,
+    "type": "books_type",
+    "value": "song007",
+    "word": "雲上曲卷五",
+    "order": "7",
+    "attribute": "聖歌集"
+  },
+  {
+    "id": 298,
+    "type": "books_type",
+    "value": "song008",
+    "word": "雲上曲卷六",
+    "order": "8",
+    "attribute": "聖歌集"
+  },
+  {
+    "id": 299,
+    "type": "books_type",
+    "value": "song009",
+    "word": "雲上曲卷八",
+    "order": "9",
+    "attribute": "聖歌集"
+  },
+  {
+    "id": 300,
+    "type": "books_type",
+    "value": "song010",
+    "word": "傳承家風-小冊",
+    "order": "10",
+    "attribute": "聖歌集"
+  },
+  {
+    "id": 301,
+    "type": "books_type",
+    "value": "song011",
+    "word": "傳承家風-文慈菩薩成道卅週年紀念2CD",
+    "order": "11",
+    "attribute": "聖歌集"
+  },
+  {
+    "id": 302,
+    "type": "books_type",
+    "value": "song012",
+    "word": "傳承家風封面",
+    "order": "12",
+    "attribute": "聖歌集"
+  },
+  {
+    "id": 303,
+    "type": "books_type",
+    "value": "song013",
+    "word": "道德經讀誦CD",
+    "order": "13",
+    "attribute": "聖歌集"
+  },
+  {
+    "id": 304,
+    "type": "books_type",
+    "value": "song014",
+    "word": "論語讀本卷下導讀+帶讀",
+    "order": "14",
+    "attribute": "聖歌集"
+  },
+  {
+    "id": 305,
+    "type": "books_type",
+    "value": "song015",
+    "word": "彌勒因緣CD暨真經玄義",
+    "order": "15",
+    "attribute": "聖歌集"
+  },
+  {
+    "id": 306,
+    "type": "books_type",
+    "value": "song016",
+    "word": "濟世佛曲CD",
+    "order": "16",
+    "attribute": "聖歌集"
+  },
+  {
+    "id": 307,
+    "type": "books_type",
+    "value": "song017",
+    "word": "關聖帝君大解冤經CD",
+    "order": "17",
+    "attribute": "聖歌集"
+  },
+  {
+    "id": 308,
+    "type": "library_books_type",
+    "value": "type1",
+    "word": "訓文類",
+    "order": "1",
+    "attribute": "A"
+  },
+  {
+    "id": 309,
+    "type": "library_books_type",
+    "value": "type2",
+    "word": "聖歌類",
+    "order": "2",
+    "attribute": "B"
+  },
+  {
+    "id": 310,
+    "type": "library_books_type",
+    "value": "type3",
+    "word": "經典類",
+    "order": "3",
+    "attribute": "C"
+  },
+  {
+    "id": 311,
+    "type": "library_books_type",
+    "value": "type4",
+    "word": "道學類",
+    "order": "4",
+    "attribute": "D"
+  },
+  {
+    "id": 312,
+    "type": "library_books_type",
+    "value": "type5",
+    "word": "文史傳記",
+    "order": "5",
+    "attribute": "E"
+  },
+  {
+    "id": 313,
+    "type": "library_books_type",
+    "value": "type6",
+    "word": "集刊類",
+    "order": "6",
+    "attribute": ""
+  },
+  {
+    "id": 314,
+    "type": "library_books_type",
+    "value": "type7",
+    "word": "工具書",
+    "order": "7",
+    "attribute": "F"
+  },
+  {
+    "id": 315,
+    "type": "library_books_type",
+    "value": "type8",
+    "word": "外文書籍",
+    "order": "8",
+    "attribute": "G"
+  },
+  {
+    "id": 316,
+    "type": "library_books_type",
+    "value": "type9",
+    "word": "健康養生",
+    "order": "9",
+    "attribute": "H"
+  },
+  {
+    "id": 317,
+    "type": "library_books_type",
+    "value": "type10",
+    "word": "兒童故事",
+    "order": "10",
+    "attribute": "I"
+  },
+  {
+    "id": 318,
+    "type": "library_books_type",
+    "value": "type11",
+    "word": "CDDVD",
+    "order": "11",
+    "attribute": "J"
+  },
+  {
+    "id": 319,
+    "type": "gender",
+    "value": "boy",
+    "word": "童",
+    "order": "3",
+    "attribute": ""
+  },
+  {
+    "id": 320,
+    "type": "gender",
+    "value": "girl",
+    "word": "女",
+    "order": "4",
+    "attribute": ""
+  },
+  {
+    "id": 321,
+    "type": "user_type",
+    "value": "admin",
+    "word": "管理員",
+    "order": "1",
+    "attribute": ""
+  },
+  {
+    "id": 322,
+    "type": "user_type",
+    "value": "editor",
+    "word": "文書",
+    "order": "2",
+    "attribute": ""
+  },
+  {
+    "id": 323,
+    "type": "user_type",
+    "value": "local",
+    "word": "區長",
+    "order": "3",
+    "attribute": ""
+  },
+  {
+    "id": 324,
+    "type": "user_type",
+    "value": "Dianchuanshi",
+    "word": "經理",
+    "order": "4",
+    "attribute": ""
+  },
+  {
+    "id": 325,
+    "type": "user_type",
+    "value": "General",
+    "word": "道親",
+    "order": "5",
+    "attribute": ""
+  },
+  {
+    "type": "area",
+    "value": "Hsinchu_303",
+    "word": "湖口區",
+    "order": "6",
+    "attribute": ""
+  },
+  {
+    "type": "area",
+    "value": "taipei_111",
+    "word": "士林區",
+    "order": "6",
+    "attribute": ""
+  },
+  {
+    "type": "area",
+    "value": "center",
+    "word": "中心",
+    "order": "7",
+    "attribute": ""
+  },
+  {
+    "type": "lan",
+    "value": "tran_chinese",
+    "word": "華語",
+    "order": "1",
+    "attribute": ""
+  },
+  {
+    "type": "lan",
+    "value": "english",
+    "word": "英語",
+    "order": "2",
+    "attribute": ""
+  },
+  {
+    "type": "lan",
+    "value": "thai",
+    "word": "泰語 ",
+    "order": "3",
+    "attribute": ""
+  },
+  {
+    "type": "lan",
+    "value": "spanish",
+    "word": "西班牙語",
+    "order": "4",
+    "attribute": ""
+  },
+  {
+    "type": "lan",
+    "value": "japan",
+    "word": "日語",
+    "order": "5",
+    "attribute": ""
+  },
+  {
+    "type": "lan",
+    "value": "chi2engli",
+    "word": "中英對照",
+    "order": "6",
+    "attribute": ""
+  },
+  {
+    "type": "group",
+    "value": "location",
+    "word": "區長",
+    "order": "10",
+    "attribute": ""
+  }
+]

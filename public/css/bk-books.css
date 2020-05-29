@@ -1,0 +1,34 @@
+#bk-books .borrow_btn,
+#bk-books .add_receive_btn {
+    height: 42px;
+    width: 42px;
+    background: url(../img/add_new.png) no-repeat center;
+}
+#bk-books .add_books_btn,
+#bk-books .add_stockbooks_btn,
+#bk-books .add_newbooks_btn {
+    height: 42px;
+    width: 42px;
+    background: url(../img/add_new.png) no-repeat center;
+}
+#bk-books .close {
+    height: 42px;
+    width: 30px;
+}
+#bk-books .table .table_number {
+    width: 130px;
+}
+#bk-books .table .table_space {
+    width: 70px;
+}
+#bk-books .table .table_count {
+    width: 50px;
+}
+#bk-books .table .table_btn {
+    width: 42px;
+    padding: 0px;
+}
+#bk-books .table .table_end_date {
+    width: 100px;
+}
+

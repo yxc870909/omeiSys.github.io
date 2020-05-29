@@ -1,0 +1,63 @@
+#bk-bookssubscription .add_book_btn {
+    height: 42px;
+    width: 42px;
+    background: url(../img/add_new.png) no-repeat center;
+}
+
+#bk-bookssubscription .clearMargin {
+	width: 50%;
+	margin: 0;
+}
+
+#bk-bookssubscription .clearMargin a {
+	cursor: pointer;
+}
+
+#bk-bookssubscription .thumbnail img {
+	cursor: pointer;
+}
+
+#bk-bookssubscription .green {
+	color: #1db501;
+}
+
+#bk-bookssubscription .red {
+	color: red;
+}
+
+#bk-bookssubscription .img-box {
+	display: inline-block; 
+	height: 255px;
+	width: 255px;
+	float: right; 
+	overflow: hidden;
+	line-height: 255px;
+	font-size: 22px;
+}
+
+#bk-bookssubscription .icon-cancel-circle {
+	position: absolute;
+	right: 25px;
+}
+
+#bk-bookssubscription .icon-cancel-circle:hover {
+	color: #bbb;
+	cursor: pointer;
+}
+
+#bk-bookssubscription .img-box .upload {
+	border-style: dashed; 
+	height: 100%; 
+	width: 100%;
+	color: #ddd;
+	font-size: 100px;
+	text-align: center;
+}
+#bk-bookssubscription .img-box .upload:hover {
+	color: #ccc;
+	cursor: pointer;
+}
+
+#bk-bookssubscription .img-box img {
+	width: 100%;
+}

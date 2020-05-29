@@ -1,0 +1,114 @@
+<div class="modal fade bs-example-modal-md" id="Edit_record" tabindex="-1" role="dialog" aria-labelledby="mymdallModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-md">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dimdiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4>變更申請狀態</h4>
+            </div>
+            <div class="modal-body">
+
+                <form class="form-horizontal" name="edit_record">
+                    <input type="hidden" name="_token" value="<?php echo csrf_token(); ?>">
+                    <input type="hidden" name="id">
+                    <label>地點 : </label>
+                    <label name="temple"></label>
+
+                    <div class="form-inline" style="float: right;">
+
+                        <div class="col-md-2" style="padding: 0; margin-right: 30px;">
+                            <div class="status dropdown">
+                                <input type="hidden" name="status" value="" >
+                                <button class="btn btn-default dropdown-toggle" type="button" name="status" data-toggle="dropdown" aria-expanded="true">
+                                  
+                                  <span class="caret"></span>
+                                </button>
+                                <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+                                     <li role="presentation" data-val="out"><a role="menuitem" tabindex="-1" href="#">借出中</a></li>
+                                     <li role="presentation" data-val="back"><a role="menuitem" tabindex="-1" href="#">已歸還</a></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <hr>
+                    <div class="form-group">
+                        <div class="col-md-5">
+
+                            <label>書名/刊名 : </label>
+                            <label name="title"></label>
+
+                            <div class="img-box" style="height: 100%;width: 100%;float: none;">
+                                <img id="img" src="/img/solo3.png">
+                            </div>
+
+                            <p name="return_date" style="margin-top: 20px;">歸還時間: 2018-01-01</p>
+                        </div>
+
+                        <div class="col-md-7">
+                            <div class="panel panel-default">
+                                <div class="panel-body">
+
+                                    <div class="form-group">
+                                        <label class="col-md-4">類別 : </label>
+                                        <div class="col-md-8">
+                                            <label name="cat"></label>
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label class="col-md-4">語文 : </label>
+                                        <div class="col-md-8">
+                                            <label name="lan"></label>
+                                        </div>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label class="col-md-4">作者/編者/譯者 : </label>
+                                        <div class="col-md-8">
+                                            <label name="author"></label>
+                                        </div>
+                                    </div>
+                    
+                                    <div class="form-group">
+                                        <label class="col-md-4">ISBN : </label>
+                                        <div class="col-md-8">
+                                            <label name="isbn"></label>
+                                        </div>
+                                    </div>
+                    
+                                    <div class="form-group">
+                                        <label class="col-md-4">出版年 : </label>
+                                        <div class="col-md-8">
+                                            <label name="pub_year"></label>
+                                        </div>
+                                    </div>
+                    
+                                    <div class="form-group">
+                                        <label class="col-md-4">版次 : </label>
+                                        <div class="col-md-8">
+                                            <label name="version"></label>
+                                        </div>
+                                    </div>
+                    
+                                    <div class="form-group">
+                                        <label class="col-md-4">卷/冊次 : </label>
+                                        <div class="col-md-8">
+                                            <label name="no"></label>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>                    
+    
+                    <div align="right">
+                        <button type="button" class="btn btn-success right" name="save" aria-expanded="fales">送出變更</button>
+                    </div>
+    
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,72 @@
+#bk-activity .add_attend_btn {
+    height: 42px;
+    width: 42px;
+    background: url(../img/add_new.png) no-repeat center;
+}
+
+#bk-activity tr th:first-child {
+	padding: 2px;
+	padding-left: 8px;
+}
+
+#bk-activity .user_box {
+	  display: inline-block;
+  	width: 32px;
+  	height: 32px;  
+  	border-radius: 50%;
+  	/*border:  1px solid blue;*/
+  	text-align: center;
+  	overflow: hidden;
+  	text-align: center;
+  	font-size: 20px;
+  	color: white;
+  	background-color: blue;
+}
+
+#bk-activity .male {
+  background-color: blue;
+}
+#bk-activity .female {
+  background-color: red;
+}
+
+#bk-activity .user_box img {
+	width: 100%;
+}
+
+#bk-activity .yes {
+    display: inline-block;
+    width: 25px;
+    height: 25px;  
+    border-radius: 50%;
+    background-color: #49dc47;
+    text-align: center;
+    overflow: hidden;
+    text-align: center;
+    color: white;
+}
+
+#bk-activity .no {
+    display: inline-block;
+    width: 25px;
+    height: 25px;  
+    border-radius: 50%;
+    background-color: white;
+    text-align: center;
+    overflow: hidden;
+    text-align: center;
+    color: white;
+}
+
+#Add_attend .icon-checkmark {
+  line-height: 1.8;
+}
+
+#Add_attend .male {
+  color: #1c41f9;
+  background-color: white;
+}
+#Add_attend .female {
+  color: #f91cf2;
+  background-color: white;
+}

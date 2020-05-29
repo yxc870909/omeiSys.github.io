@@ -1,0 +1,5 @@
+#bk-temple .add_temple_btn {
+    height: 42px;
+    width: 40px;
+    background: url(../img/add_new.png) no-repeat right;
+}

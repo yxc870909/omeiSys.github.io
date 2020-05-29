@@ -1,0 +1,65 @@
+#bk-booksreceive .clearMargin {
+	width: 50%;
+	margin: 0;
+}
+
+#bk-booksreceive .clearMargin a {
+	cursor: pointer;
+}
+
+#bk-booksreceive .thumbnail img {
+	cursor: pointer;
+}
+
+#bk-booksreceive .green {
+	color: #1db501;
+}
+
+#bk-booksreceive .red {
+	color: red;
+}
+
+#bk-booksreceive .gray {
+	color: #808080;
+}
+
+#bk-booksreceive .gainsboro {
+	color: gainsboro;
+}
+
+#bk-booksreceive .img-box {
+	display: inline-block; 
+	height: 255px;
+	width: 255px;
+	float: right; 
+	overflow: hidden;
+	line-height: 255px;
+	font-size: 22px;
+}
+
+#bk-booksreceive .icon-cancel-circle {
+	position: absolute;
+	right: 25px;
+}
+
+#bk-booksreceive .icon-cancel-circle:hover {
+	color: #bbb;
+	cursor: pointer;
+}
+
+#bk-booksreceive .img-box .upload {
+	border-style: dashed; 
+	height: 100%; 
+	width: 100%;
+	color: #ddd;
+	font-size: 100px;
+	text-align: center;
+}
+#bk-booksreceive .img-box .upload:hover {
+	color: #ccc;
+	cursor: pointer;
+}
+
+#bk-booksreceive .img-box img {
+	width: 100%;
+}
